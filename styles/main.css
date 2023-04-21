@@ -1,0 +1,57 @@
+/* style for the right-side section */
+body {
+    background-color:lightcyan;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+section.header {
+    display: flex;
+    justify-content: center;
+    border: 5px;
+    border-style: solid;
+}
+
+
+section.fishOwned {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 5px;
+    border-style: solid;
+    margin-top: 100px;
+    margin-right: 400px;
+}
+
+section.quotesAboutFish {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 5px;
+    border-style: solid;
+    margin-top: 100px;
+    margin-right: 400px;
+    
+}
+
+section.placesVisited {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 5px;
+    border-style: solid;
+    margin-top: 100px;
+    margin-right: 400px;
+}
+
+aside { 
+    background-color: lightblue;
+    border: 5px;
+    border-style:solid;
+    width: 300px;
+    margin-left: auto;
+    margin-top: -445px;
+}
